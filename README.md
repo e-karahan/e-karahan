@@ -29,9 +29,6 @@
 <br />
 <br />
 
----
-<img align="left" alt="e-karahan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=e-karahan&show_icons=true&hide_border=true&count_private=true" />
-
 [instagram]: https://www.instagram.com/_emirhankarahan/
 [linkedin]: https://www.linkedin.com/in/emirhan-karahan/
 [gmail]: emirhankarahan37@gmail.com
