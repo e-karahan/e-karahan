@@ -1,11 +1,6 @@
-### Hi there, I'm Emirhan - aka Cafune 👋
+### Hi there, I'm Emirhan 👋
 
-## I'm a Student and Developer!
-- 🔭 I’m currently working on a e-commerce website!
-- 🌱 I’m currently learning Node.js and React
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: I want to learn more about back-end and React. 
-- ⚡ Fun fact: I love video games.
+## I'm a Student and Web Developer
 
 ---
 
